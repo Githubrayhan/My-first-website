@@ -6,7 +6,7 @@ h1{
     color: rgb(243, 18, 202);
 }
 h2{
-color: blue;
+color: rgb(198, 73, 226);
 font-size: 50px;
 }
 #text{
@@ -20,7 +20,15 @@ p{
 .donate-batton{
 padding-top: 15px;
 text-align: center;
+
 }
+.batton1{
+    text-align: center;
+    background-image: linear-gradient(orange, rgb(243, 40, 4));
+    padding: 15px 40px;
+    border-radius: 20px;
+    font-weight: 800;
+    font-size: 20px;}
 .batton{
     text-align: center;
     background-image: linear-gradient(orange, rgb(243, 40, 4));
